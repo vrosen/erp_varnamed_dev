@@ -1,0 +1,191 @@
+* {
+	/* old-style reset here :) */
+	border: 0px;
+	padding: 0px;
+}
+body {
+	font-family: Helvetica;
+	background: white;
+/*	text-align: center;*/
+/*	background: url(../images/body.png) repeat-x;*/
+}
+
+html, body {
+  height: 100%;
+}
+
+.page-wrap {
+  min-height: 100%;
+  /* equal to footer height */
+  margin-bottom: -36px; 
+}
+.page-wrap:after {
+  content: "";
+  display: block;
+}
+
+.site-footer, .page-wrap:after {
+  /* .push must be the same height as footer */
+  height: 36px; 
+}
+.site-footer {
+	background-color: #c1c1c1;
+	text-align: right; 
+	font-size: 11px;
+	color: #6F5499; 
+	width:100%; 
+	padding: 12px 10px 0 10px; 
+	opacity: 0.6;
+}
+
+
+.site-footer:hover {
+	opacity: 1;
+	background-color: #fff;
+}
+
+
+body h1 {
+	padding-top: 20px;
+	font-size: 26px;
+	color: #335;
+}
+#sidebar { width:265px;position:static;top:60px;left:0; float: left; background:#fff;color:#fff;overflow:hidden;border: 3px solid #c9c9c9; border-width: 3px 3px 3px 0; padding: 5px 5px 0 5px; margin-bottom: 10px;}
+
+#rightsidebar { width:15.5%;position:fixed;top:63px;right:0; float: right; background:#fff;color:#fff;overflow:hidden;border: 3px solid #c9c9c9; border-width: 3px 0 3px 3px; padding: 5px 5px 0 5px; margin-bottom: 10px;}
+
+.expand {color: #c9c9c9; font-size: 	10px; }
+.expand:hover {cursor: pointer; color: #6F5499;}
+
+/* weather ?? div > img {
+background-repeat: no-repeat;
+background-position: center center;
+background-attachment: fixed;
+-webkit-background-size: cover;
+-moz-background-size: cover;
+-o-background-size: cover;
+background-size: cover;
+width:100px;
+height:100px;}*/
+
+.panel-heading:hover {
+	cursor: pointer;
+	color: #fff;
+}
+
+.closeit {
+	margin-top: 3px;
+
+}
+
+
+
+#content td {
+border-bottom:medium none;
+padding:2px;
+}
+#calmain table {
+	border-collapse: separate;
+	border: 1px solid #9DABCE;
+	margin: 5px auto;
+	font-size: 14px;
+}
+#calmain td, #calmain th {
+	width: 24px;
+	height: 24px;
+	text-align: center;
+	vertical-align: middle;
+	/*background: url(../images/cells.png);*/
+	color: #444;
+	position: relative;
+	padding:5px;
+}
+#calmain th {
+	height: 30px;
+	font-weight: bold;
+	font-size: 12px;
+}
+#calmain td:hover, #calmain th:hover {
+	background-position: 0px -81px;
+	color: #222;
+}
+#calmain td.date_has_event {
+	background-position: 162px 0px;
+	color: green;
+}
+#calmain td.date_has_event:hover {
+	background-position: 162px -81px;
+}
+#calmain td.padding {
+	/*background: url(../images/calpad.jpg);*/
+}
+#calmain td#today {
+	background-position: 81px 0px;
+	color: red;
+}
+#calmain td#today:hover {
+	background-position: 81px -81px;
+}
+#calmain .events {
+	position: relative;
+}
+#calmain .events ul {
+	text-align: left;
+	position: absolute;
+	display: none;
+	z-index: 1000;
+	padding: 15px;
+	background: #E7ECF2 url(../images/popup.png) no-repeat;
+	color: white;
+	border: 1px solid white;
+	font-size: 15px;
+	width: 200px;
+	-moz-border-radius: 3px;
+	-khtml-border-radius: 3px;
+	-webkit-border-radius: 3px;
+	-border-radius: 1px;
+	list-style: none;
+	color: #444444;
+	-webkit-box-shadow: 0px 8px 8px #333;
+}
+#calmain .events li {
+	padding-bottom: 5px;
+}
+#calmain .events li span {
+	display: block;
+	font-size: 12px;
+	text-align: justify;
+	color: #555;
+}
+#calmain .events li span.title {
+	font-weight: bold;
+	color: #222;
+}
+
+#calmain th a{
+text-decoration:none;
+font-size:120%;
+font-weight:bold;
+color: #000;
+outline-width:0;
+}
+
+#content textarea, #content input{
+	border: 1px solid #ccc;
+}
+/* Calendar */
+
+#calmain{
+	width: 100%;
+	float: left;
+}
+#calleft{
+	float: left;
+	width: 20%;
+	padding: 20px;
+}
+#calright {
+	float: left;
+	width:20%;
+	padding: 20px;
+}

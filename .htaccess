@@ -1,0 +1,15 @@
+<IfModule mod_rewrite.c>
+    RewriteEngine On
+    RewriteBase /
+    RewriteCond %{REQUEST_FILENAME} !-f
+    RewriteCond %{REQUEST_FILENAME} !-d
+    RewriteRule ^(.*)$ /varnamed//index.php/$1 [L]
+</IfModule>
+<Files robots.txt>
+          order allow,deny
+          deny from all
+</Files>
+#RewriteEngine on
+#RewriteCond %{REQUEST_URI} !^antibot.php
+#RewriteCond %{HTTP_USER_AGENT} (.*)ZmEu(.*)
+#RewriteRule .* http://www.varnamed.com/antibot.php [R=301,L]

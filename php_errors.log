@@ -1,0 +1,133 @@
+[02-Jun-2014 15:01:58 Europe/Helsinki] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /var/www/varnamed/varnamed/views/admin/group_products.php on line 165
+[02-Jun-2014 15:06:16 Europe/Helsinki] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /var/www/varnamed/varnamed/views/admin/group_products.php on line 165
+[02-Jun-2014 15:06:33 Europe/Helsinki] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /var/www/varnamed/varnamed/views/admin/group_products.php on line 165
+[02-Jun-2014 15:06:34 Europe/Helsinki] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /var/www/varnamed/varnamed/views/admin/group_products.php on line 165
+[02-Jun-2014 15:06:34 Europe/Helsinki] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /var/www/varnamed/varnamed/views/admin/group_products.php on line 165
+[02-Jun-2014 15:06:34 Europe/Helsinki] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /var/www/varnamed/varnamed/views/admin/group_products.php on line 165
+[02-Jun-2014 18:00:01 Europe/Helsinki] PHP Parse error:  syntax error, unexpected '/' in /var/www/varnamed/varnamed/views/admin/product_form.php on line 79
+[03-Jun-2014 10:35:47 Europe/Helsinki] PHP Parse error:  syntax error, unexpected ''style'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /var/www/varnamed/varnamed/views/admin/product_form.php on line 188
+[03-Jun-2014 12:02:48 Europe/Helsinki] PHP Parse error:  syntax error, unexpected 'endforeach' (T_ENDFOREACH) in /var/www/varnamed/varnamed/views/admin/product_form.php on line 284
+[03-Jun-2014 12:31:50 Europe/Helsinki] PHP Fatal error:  Call to undefined method CI_DB_mysql_driver::row_array() in /var/www/varnamed/varnamed/models/supplier_model.php on line 45
+[03-Jun-2014 12:32:43 Europe/Helsinki] PHP Fatal error:  Call to undefined method CI_DB_mysql_driver::result_array() in /var/www/varnamed/varnamed/models/supplier_model.php on line 45
+[03-Jun-2014 12:32:59 Europe/Helsinki] PHP Fatal error:  Call to undefined method CI_DB_mysql_driver::result_array() in /var/www/varnamed/varnamed/models/supplier_model.php on line 45
+[03-Jun-2014 12:33:07 Europe/Helsinki] PHP Fatal error:  Call to undefined method CI_DB_mysql_driver::result() in /var/www/varnamed/varnamed/models/supplier_model.php on line 45
+[03-Jun-2014 12:33:39 Europe/Helsinki] PHP Fatal error:  Call to undefined method CI_DB_mysql_driver::row_array() in /var/www/varnamed/varnamed/models/supplier_model.php on line 45
+[03-Jun-2014 12:34:36 Europe/Helsinki] PHP Fatal error:  Call to undefined method CI_DB_mysql_driver::row_array() in /var/www/varnamed/varnamed/models/supplier_model.php on line 45
+[03-Jun-2014 12:35:02 Europe/Helsinki] PHP Fatal error:  Call to undefined method CI_DB_mysql_driver::result_array() in /var/www/varnamed/varnamed/models/supplier_model.php on line 45
+[03-Jun-2014 12:43:23 Europe/Helsinki] PHP Fatal error:  Cannot use object of type stdClass as array in /var/www/varnamed/varnamed/views/admin/product_form.php on line 288
+[03-Jun-2014 12:43:45 Europe/Helsinki] PHP Fatal error:  Cannot use object of type stdClass as array in /var/www/varnamed/varnamed/views/admin/product_form.php on line 288
+[03-Jun-2014 13:41:50 Europe/Helsinki] PHP Parse error:  syntax error, unexpected ''style'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /var/www/varnamed/varnamed/views/admin/product_form.php on line 318
+[03-Jun-2014 13:46:12 Europe/Helsinki] PHP Parse error:  syntax error, unexpected '?' in /var/www/varnamed/varnamed/views/admin/product_form.php on line 314
+[03-Jun-2014 14:36:00 Europe/Helsinki] PHP Parse error:  syntax error, unexpected ';' in /var/www/varnamed/varnamed/views/admin/product_form.php on line 391
+[03-Jun-2014 14:37:05 Europe/Helsinki] PHP Parse error:  syntax error, unexpected '&' in /var/www/varnamed/varnamed/views/admin/product_form.php on line 391
+[03-Jun-2014 16:22:13 Europe/Helsinki] PHP Parse error:  syntax error, unexpected 'endif' (T_ENDIF) in /var/www/varnamed/varnamed/views/admin/product_form.php on line 339
+[04-Jun-2014 16:26:43 Europe/Helsinki] PHP Parse error:  syntax error, unexpected ']' in /var/www/varnamed/varnamed/controllers/admin/customers.php on line 1929
+[05-Jun-2014 10:28:10 Europe/Helsinki] PHP Parse error:  syntax error, unexpected '$price' (T_VARIABLE), expecting ')' in /var/www/varnamed/varnamed/views/admin/customer_prices.php on line 237
+[05-Jun-2014 10:39:30 Europe/Helsinki] PHP Parse error:  syntax error, unexpected ';' in /var/www/varnamed/varnamed/views/admin/customer_prices.php on line 240
+[05-Jun-2014 10:52:10 Europe/Helsinki] PHP Fatal error:  Call to undefined function size_of() in /var/www/varnamed/varnamed/controllers/admin/customers.php on line 1925
+[05-Jun-2014 11:43:33 Europe/Helsinki] PHP Parse error:  syntax error, unexpected '=', expecting ')' in /var/www/varnamed/varnamed/views/admin/customer_prices.php on line 256
+[05-Jun-2014 12:10:11 Europe/Helsinki] PHP Fatal error:  Call to a member function save_the_offer() on a non-object in /var/www/varnamed/varnamed/controllers/admin/customers.php on line 1932
+[05-Jun-2014 12:11:22 Europe/Helsinki] PHP Parse error:  syntax error, unexpected ''Offer_model'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /var/www/varnamed/varnamed/controllers/admin/customers.php on line 48
+[05-Jun-2014 13:38:42 Europe/Helsinki] PHP Fatal error:  Cannot use object of type stdClass as array in /var/www/varnamed/varnamed/views/admin/offer.php on line 30
+[05-Jun-2014 13:39:18 Europe/Helsinki] PHP Parse error:  syntax error, unexpected '?>' in /var/www/varnamed/varnamed/views/admin/offer.php on line 30
+[05-Jun-2014 13:42:25 Europe/Helsinki] PHP Parse error:  syntax error, unexpected '0' (T_LNUMBER) in /var/www/varnamed/varnamed/views/admin/offer.php on line 35
+[05-Jun-2014 13:51:29 Europe/Helsinki] PHP Parse error:  syntax error, unexpected ';' in /var/www/varnamed/varnamed/views/admin/offer.php on line 38
+[05-Jun-2014 14:17:57 Europe/Helsinki] PHP Parse error:  syntax error, unexpected ';' in /var/www/varnamed/varnamed/views/admin/customer_prices.php on line 262
+[05-Jun-2014 14:32:14 Europe/Helsinki] PHP Parse error:  syntax error, unexpected ',' in /var/www/varnamed/varnamed/controllers/admin/customers.php on line 1950
+[05-Jun-2014 16:36:13 Europe/Helsinki] PHP Parse error:  syntax error, unexpected ',' in /var/www/varnamed/varnamed/controllers/admin/invoices.php on line 505
+[05-Jun-2014 16:37:47 Europe/Helsinki] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE), expecting ',' or ';' in /var/www/varnamed/varnamed/views/admin/invoice_list.php on line 144
+[05-Jun-2014 16:38:15 Europe/Helsinki] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /var/www/varnamed/varnamed/views/admin/invoice_list.php on line 144
+[05-Jun-2014 16:38:27 Europe/Helsinki] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /var/www/varnamed/varnamed/views/admin/invoice_list.php on line 144
+[05-Jun-2014 16:38:48 Europe/Helsinki] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /var/www/varnamed/varnamed/views/admin/invoice_list.php on line 144
+[05-Jun-2014 16:46:51 Europe/Helsinki] PHP Parse error:  syntax error, unexpected end of file in /var/www/varnamed/varnamed/views/admin/invoice_list.php on line 320
+[05-Jun-2014 16:48:13 Europe/Helsinki] PHP Parse error:  syntax error, unexpected end of file in /var/www/varnamed/varnamed/views/admin/invoice_list.php on line 315
+[05-Jun-2014 16:49:20 Europe/Helsinki] PHP Parse error:  syntax error, unexpected end of file in /var/www/varnamed/varnamed/views/admin/invoice_list.php on line 315
+[05-Jun-2014 16:49:52 Europe/Helsinki] PHP Parse error:  syntax error, unexpected end of file in /var/www/varnamed/varnamed/views/admin/invoice_list.php on line 315
+[05-Jun-2014 16:50:13 Europe/Helsinki] PHP Parse error:  syntax error, unexpected end of file in /var/www/varnamed/varnamed/views/admin/invoice_list.php on line 315
+[05-Jun-2014 16:51:54 Europe/Helsinki] PHP Parse error:  syntax error, unexpected end of file in /var/www/varnamed/varnamed/views/admin/invoice_list.php on line 315
+[05-Jun-2014 16:52:38 Europe/Helsinki] PHP Parse error:  syntax error, unexpected end of file in /var/www/varnamed/varnamed/views/admin/invoice_list.php on line 314
+[05-Jun-2014 16:52:54 Europe/Helsinki] PHP Parse error:  syntax error, unexpected end of file in /var/www/varnamed/varnamed/views/admin/invoice_list.php on line 315
+[05-Jun-2014 16:53:28 Europe/Helsinki] PHP Parse error:  syntax error, unexpected end of file in /var/www/varnamed/varnamed/views/admin/invoice_list.php on line 315
+[05-Jun-2014 16:53:40 Europe/Helsinki] PHP Parse error:  syntax error, unexpected end of file in /var/www/varnamed/varnamed/views/admin/invoice_list.php on line 314
+[05-Jun-2014 16:54:24 Europe/Helsinki] PHP Parse error:  syntax error, unexpected end of file in /var/www/varnamed/varnamed/views/admin/invoice_list.php on line 316
+[05-Jun-2014 16:54:42 Europe/Helsinki] PHP Parse error:  syntax error, unexpected end of file in /var/www/varnamed/varnamed/views/admin/invoice_list.php on line 317
+[05-Jun-2014 16:54:56 Europe/Helsinki] PHP Parse error:  syntax error, unexpected '&' in /var/www/varnamed/varnamed/views/admin/invoice_list.php on line 171
+[05-Jun-2014 16:55:12 Europe/Helsinki] PHP Parse error:  syntax error, unexpected end of file in /var/www/varnamed/varnamed/views/admin/invoice_list.php on line 317
+[05-Jun-2014 16:55:19 Europe/Helsinki] PHP Parse error:  syntax error, unexpected '&' in /var/www/varnamed/varnamed/views/admin/invoice_list.php on line 171
+[05-Jun-2014 16:55:24 Europe/Helsinki] PHP Parse error:  syntax error, unexpected end of file in /var/www/varnamed/varnamed/views/admin/invoice_list.php on line 317
+[05-Jun-2014 16:55:34 Europe/Helsinki] PHP Parse error:  syntax error, unexpected end of file in /var/www/varnamed/varnamed/views/admin/invoice_list.php on line 317
+[05-Jun-2014 16:55:40 Europe/Helsinki] PHP Parse error:  syntax error, unexpected end of file in /var/www/varnamed/varnamed/views/admin/invoice_list.php on line 317
+[05-Jun-2014 16:56:27 Europe/Helsinki] PHP Parse error:  syntax error, unexpected end of file in /var/www/varnamed/varnamed/views/admin/invoice_list.php on line 318
+[05-Jun-2014 16:57:42 Europe/Helsinki] PHP Parse error:  syntax error, unexpected end of file in /var/www/varnamed/varnamed/views/admin/invoice_list.php on line 313
+[05-Jun-2014 17:15:30 Europe/Helsinki] PHP Parse error:  syntax error, unexpected '}' in /var/www/varnamed/varnamed/controllers/admin/invoices.php on line 518
+[05-Jun-2014 17:16:06 Europe/Helsinki] PHP Parse error:  syntax error, unexpected '}' in /var/www/varnamed/varnamed/controllers/admin/invoices.php on line 518
+[05-Jun-2014 17:16:07 Europe/Helsinki] PHP Parse error:  syntax error, unexpected '}' in /var/www/varnamed/varnamed/controllers/admin/invoices.php on line 518
+[05-Jun-2014 17:16:12 Europe/Helsinki] PHP Parse error:  syntax error, unexpected '}' in /var/www/varnamed/varnamed/controllers/admin/invoices.php on line 518
+[06-Jun-2014 11:15:30 Europe/Helsinki] PHP Parse error:  syntax error, unexpected '<' in /var/www/varnamed/varnamed/views/admin/invoice.php on line 344
+[06-Jun-2014 14:15:05 Europe/Helsinki] PHP Fatal error:  Call to undefined method CI_Loader::flashdata() in /var/www/varnamed/varnamed/views/admin/invoice.php on line 38
+[06-Jun-2014 14:21:03 Europe/Helsinki] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /var/www/varnamed/varnamed/controllers/admin/invoices.php on line 296
+[06-Jun-2014 15:48:13 Europe/Helsinki] PHP Fatal error:  Call to a member function post() on a non-object in /var/www/varnamed/varnamed/controllers/admin/invoices.php on line 297
+[06-Jun-2014 17:27:32 Europe/Helsinki] PHP Fatal error:  Cannot use object of type stdClass as array in /var/www/varnamed/varnamed/views/admin/invoice.php on line 203
+[06-Jun-2014 17:44:11 Europe/Helsinki] PHP Parse error:  syntax error, unexpected '[' in /var/www/varnamed/varnamed/models/invoice_model.php on line 755
+[06-Jun-2014 17:44:16 Europe/Helsinki] PHP Parse error:  syntax error, unexpected '[' in /var/www/varnamed/varnamed/models/invoice_model.php on line 755
+[06-Jun-2014 17:56:59 Europe/Helsinki] PHP Parse error:  syntax error, unexpected '$new_data' (T_VARIABLE) in /var/www/varnamed/varnamed/models/invoice_model.php on line 762
+[06-Jun-2014 18:34:06 Europe/Helsinki] PHP Fatal error:  Cannot use object of type stdClass as array in /var/www/varnamed/varnamed/controllers/admin/invoices.php on line 1030
+[06-Jun-2014 19:32:44 Europe/Helsinki] PHP Parse error:  syntax error, unexpected ',' in /var/www/varnamed/varnamed/controllers/admin/invoices.php on line 239
+[06-Jun-2014 19:33:08 Europe/Helsinki] PHP Parse error:  syntax error, unexpected '?>' in /var/www/varnamed/varnamed/views/admin/invoice.php on line 64
+[06-Jun-2014 19:48:01 Europe/Helsinki] PHP Fatal error:  Function name must be a string in /var/www/varnamed/varnamed/controllers/admin/invoices.php on line 996
+[09-Jun-2014 11:05:55 Europe/Helsinki] PHP Parse error:  syntax error, unexpected '=', expecting ')' in /var/www/varnamed/varnamed/controllers/admin/invoices.php on line 1034
+[09-Jun-2014 11:06:31 Europe/Helsinki] PHP Parse error:  syntax error, unexpected '=', expecting ')' in /var/www/varnamed/varnamed/controllers/admin/invoices.php on line 1034
+[09-Jun-2014 12:16:49 Europe/Helsinki] PHP Parse error:  syntax error, unexpected ';' in /var/www/varnamed/varnamed/views/admin/invoice.php on line 331
+[09-Jun-2014 12:17:22 Europe/Helsinki] PHP Parse error:  syntax error, unexpected ';' in /var/www/varnamed/varnamed/views/admin/invoice.php on line 330
+[09-Jun-2014 14:33:02 Europe/Helsinki] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /var/www/varnamed/varnamed/controllers/admin/invoices.php on line 1038
+[10-Jun-2014 03:07:07 Europe/Helsinki] PHP Parse error:  syntax error, unexpected '$config' (T_VARIABLE), expecting function (T_FUNCTION) in /var/www/varnamed/varnamed/libraries/MY_Pagination.php on line 25
+[10-Jun-2014 03:24:18 Europe/Helsinki] PHP Fatal error:  Class 'CI_Pagination' not found in /var/www/varnamed/varnamed/libraries/MY_Pagination.php on line 9
+[10-Jun-2014 04:55:53 Europe/Helsinki] PHP Parse error:  syntax error, unexpected end of file, expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /var/www/varnamed/varnamed/controllers/admin/stock.php on line 1646
+[10-Jun-2014 05:05:59 Europe/Helsinki] PHP Parse error:  syntax error, unexpected ' 1' in /var/www/varnamed/varnamed/views/admin/customer_form.php on line 275
+[10-Jun-2014 05:08:18 Europe/Helsinki] PHP Parse error:  syntax error, unexpected end of file in /var/www/varnamed/varnamed/views/admin/customer_form.php on line 587
+[10-Jun-2014 05:09:19 Europe/Helsinki] PHP Parse error:  syntax error, unexpected end of file in /var/www/varnamed/varnamed/views/admin/customer_form.php on line 275
+[10-Jun-2014 05:39:58 Europe/Helsinki] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or quoted-string and whitespace (T_ENCAPSED_AND_WHITESPACE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /var/www/varnamed/varnamed/views/admin/customer_form.php on line 128
+[10-Jun-2014 05:41:06 Europe/Helsinki] PHP Parse error:  syntax error, unexpected end of file in /var/www/varnamed/varnamed/views/admin/customer_form.php on line 759
+[10-Jun-2014 06:09:17 Europe/Helsinki] PHP Parse error:  syntax error, unexpected end of file in /var/www/varnamed/varnamed/views/admin/customer_form.php on line 1016
+[10-Jun-2014 07:05:07 Europe/Helsinki] PHP Parse error:  syntax error, unexpected end of file in /var/www/varnamed/varnamed/views/admin/customer_form.php on line 672
+[10-Jun-2014 07:07:12 Europe/Helsinki] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or quoted-string and whitespace (T_ENCAPSED_AND_WHITESPACE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /var/www/varnamed/varnamed/views/admin/customer_form.php on line 128
+[10-Jun-2014 07:13:37 Europe/Helsinki] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or quoted-string and whitespace (T_ENCAPSED_AND_WHITESPACE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /var/www/varnamed/varnamed/views/admin/customer_form.php on line 128
+[10-Jun-2014 07:17:49 Europe/Helsinki] PHP Parse error:  syntax error, unexpected end of file in /var/www/varnamed/varnamed/views/admin/customer_form.php on line 760
+[10-Jun-2014 07:18:54 Europe/Helsinki] PHP Parse error:  syntax error, unexpected ''/customers/new' (T_ENCAPSED_AND_WHITESPACE) in /var/www/varnamed/varnamed/views/admin/customer_form.php on line 359
+[10-Jun-2014 08:37:36 Europe/Helsinki] PHP Parse error:  syntax error, unexpected end of file in /var/www/varnamed/varnamed/views/admin/customer_form.php on line 672
+[10-Jun-2014 08:51:26 Europe/Helsinki] PHP Parse error:  syntax error, unexpected ''/customers/new' (T_ENCAPSED_AND_WHITESPACE) in /var/www/varnamed/varnamed/views/admin/customer_form.php on line 359
+[10-Jun-2014 09:13:09 Europe/Helsinki] PHP Parse error:  syntax error, unexpected ''/customers/new' (T_ENCAPSED_AND_WHITESPACE) in /var/www/varnamed/varnamed/views/admin/customer_form.php on line 359
+[10-Jun-2014 09:49:29 Europe/Helsinki] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or quoted-string and whitespace (T_ENCAPSED_AND_WHITESPACE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /var/www/varnamed/varnamed/views/admin/customer_form.php on line 128
+[10-Jun-2014 11:48:58 Europe/Helsinki] PHP Fatal error:  Can't use method return value in write context in /var/www/varnamed/varnamed/controllers/admin/customers.php on line 1037
+[10-Jun-2014 11:48:59 Europe/Helsinki] PHP Fatal error:  Can't use method return value in write context in /var/www/varnamed/varnamed/controllers/admin/customers.php on line 1037
+[10-Jun-2014 16:51:36 Europe/Helsinki] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /var/www/varnamed/varnamed/views/admin/group_form.php on line 104
+[10-Jun-2014 18:34:59 Europe/Helsinki] PHP Parse error:  syntax error, unexpected ''=>$text_1_NL);' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /var/www/varnamed/varnamed/views/admin/group_form.php on line 79
+[11-Jun-2014 09:47:08 Europe/Helsinki] PHP Parse error:  syntax error, unexpected ''4' (T_ENCAPSED_AND_WHITESPACE) in /var/www/varnamed/varnamed/views/admin/new_order_1.php on line 122
+[11-Jun-2014 09:55:01 Europe/Helsinki] PHP Parse error:  syntax error, unexpected end of file in /var/www/varnamed/varnamed/views/admin/new_order_1.php on line 574
+[11-Jun-2014 09:57:54 Europe/Helsinki] PHP Parse error:  syntax error, unexpected end of file in /var/www/varnamed/varnamed/views/admin/new_order_1.php on line 402
+[11-Jun-2014 10:00:14 Europe/Helsinki] PHP Parse error:  syntax error, unexpected end of file, expecting ',' or ';' in /var/www/varnamed/varnamed/views/admin/new_order_1.php on line 343
+[11-Jun-2014 12:17:37 Europe/Helsinki] PHP Fatal error:  Call to a member function userdata() on a non-object in /var/www/varnamed/varnamed/controllers/admin/groups.php on line 605
+[11-Jun-2014 15:52:14 Europe/Helsinki] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /var/www/varnamed/varnamed/controllers/admin/stock.php on line 268
+[11-Jun-2014 15:52:26 Europe/Helsinki] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /var/www/varnamed/varnamed/controllers/admin/stock.php on line 268
+[11-Jun-2014 15:53:25 Europe/Helsinki] PHP Fatal error:  Class 'CI_Controller' not found in /var/www/varnamed/system/core/CodeIgniter.php on line 233
+[11-Jun-2014 16:05:29 Europe/Helsinki] PHP Fatal error:  Call to undefined method Sales_model::get_country_data() in /var/www/varnamed/varnamed/controllers/admin/overview.php on line 1010
+[11-Jun-2014 16:25:03 Europe/Helsinki] PHP Fatal error:  Call to undefined function sort_url() in /var/www/varnamed/varnamed/views/admin/warehouse_stock.php on line 105
+[11-Jun-2014 16:58:25 Europe/Helsinki] PHP Parse error:  syntax error, unexpected '{' in /var/www/varnamed/varnamed/models/stock_model.php on line 899
+[11-Jun-2014 18:14:24 Europe/Helsinki] PHP Parse error:  syntax error, unexpected '0' (T_LNUMBER) in /var/www/varnamed/varnamed/controllers/admin/groups.php on line 774
+[12-Jun-2014 12:59:09 Europe/Helsinki] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /var/www/varnamed/varnamed/models/stock_model.php on line 927
+[12-Jun-2014 13:26:37 Europe/Helsinki] PHP Parse error:  syntax error, unexpected '!' in /var/www/varnamed/varnamed/models/stock_model.php on line 965
+[12-Jun-2014 14:01:00 Europe/Helsinki] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /var/www/varnamed/varnamed/models/stock_model.php on line 958
+[12-Jun-2014 16:37:49 Europe/Helsinki] PHP Parse error:  syntax error, unexpected ',' in /var/www/varnamed/varnamed/controllers/admin/stock.php on line 285
+[12-Jun-2014 17:04:28 Europe/Helsinki] PHP Parse error:  syntax error, unexpected '}' in /var/www/varnamed/varnamed/controllers/admin/stock.php on line 312
+[12-Jun-2014 17:04:39 Europe/Helsinki] PHP Parse error:  syntax error, unexpected '=', expecting ')' in /var/www/varnamed/varnamed/controllers/admin/stock.php on line 314
+[12-Jun-2014 17:05:01 Europe/Helsinki] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /var/www/varnamed/varnamed/controllers/admin/stock.php on line 314
+[12-Jun-2014 18:13:22 Europe/Helsinki] PHP Parse error:  syntax error, unexpected ']' in /var/www/varnamed/varnamed/controllers/admin/stock.php on line 335
+[12-Jun-2014 18:16:10 Europe/Helsinki] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /var/www/varnamed/varnamed/controllers/admin/stock.php on line 332
+[13-Jun-2014 11:15:13 Europe/Helsinki] PHP Fatal error:  Call to undefined method Sales_model::get_umsatz() in /var/www/varnamed/varnamed/controllers/admin/overview.php on line 855
+[13-Jun-2014 11:53:32 Europe/Helsinki] PHP Parse error:  syntax error, unexpected ',' in /var/www/varnamed/varnamed/models/invoice_model.php on line 790
+[13-Jun-2014 14:25:48 Europe/Helsinki] PHP Parse error:  syntax error, unexpected '{', expecting ')' in /var/www/varnamed/varnamed/models/order_model.php on line 1468
+[13-Jun-2014 14:26:01 Europe/Helsinki] PHP Parse error:  syntax error, unexpected '{', expecting ')' in /var/www/varnamed/varnamed/models/order_model.php on line 1468
+[13-Jun-2014 15:55:41 Europe/Helsinki] PHP Parse error:  syntax error, unexpected 'endif' (T_ENDIF) in /var/www/varnamed/varnamed/views/admin/suppliers.php on line 192
+[13-Jun-2014 16:29:51 Europe/Helsinki] PHP Parse error:  syntax error, unexpected ']' in /var/www/varnamed/varnamed/models/search_model.php on line 316
+[15-Jun-2014 20:10:58 Europe/Helsinki] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /var/www/varnamed/varnamed/views/admin/order.php on line 529
+[15-Jun-2014 21:04:38 Europe/Helsinki] PHP Parse error:  syntax error, unexpected '=' in /var/www/varnamed/varnamed/views/admin/processed_orders.php on line 107

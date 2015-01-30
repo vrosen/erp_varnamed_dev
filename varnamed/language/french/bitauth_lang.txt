@@ -1,0 +1,64 @@
+<?php
+
+/**
+ * This line is required, it must contain the label for your unique username field (what users login with)
+ */
+$lang['bitauth_username']			= 'Nom d'utilisateur';
+
+/**
+ * Password Complexity Labels
+ */
+$lang['bitauth_pwd_uppercase']		= 'Lettres capital';
+$lang['bitauth_pwd_number']			= 'Numero';
+$lang['bitauth_pwd_special']		= 'Caractères Spéciaux';
+$lang['bitauth_pwd_spaces']			= 'Espace';
+
+/**
+ * Login Error Messages
+ */
+$lang['bitauth_login_failed']		= '%s ou mot de passe non-valable';
+$lang['bitauth_user_inactive']		= 'Veuillez activer le compte avant de vous connecter.';
+$lang['bitauth_user_locked_out']	= 'Votre compte est bloquer pour %d minutes a cause de plusierus tentatives de connextion non-valide, veuillez reéssayer plus tard.';
+$lang['bitauth_pwd_expired']		= 'Mot de passe expiré.';
+
+/**
+ * User Validation Error Messages
+ */
+$lang['bitauth_unique_username']	= 'Le champ %s doit etre unique.';
+$lang['bitauth_password_is_valid']	= '%s ne répond pas aux exigences de complexité: ';
+$lang['bitauth_username_required']	= 'Le champ %s est nécessaire.';
+$lang['bitauth_password_required']	= 'Le champ %s est nécessaire.';
+$lang['bitauth_passwd_complexity']	= 'Le mot de passe ne répond pas aux exigences de complexité: %s';
+$lang['bitauth_passwd_min_length']	= 'Le mot de passe doit au moin contenir %d caractères.';
+$lang['bitauth_passwd_max_length']	= 'Le mot de passe ne peut pas etre plus long que %d caractères.';
+
+/**
+ * Group Validation Error Messages
+ */
+$lang['bitauth_unique_group']		= 'Le champ %s doit être unique.';
+$lang['bitauth_groupname_required']	= 'Nom du groupe est nécessaire.';
+
+/**
+ * General Error Messages
+ */
+$lang['bitauth_instance_na']		= "BitAuth was unable to get the CodeIgniter instance.";
+$lang['bitauth_data_error']			= 'Vous ne pouvez pas remplacer les données BitAuth avec les données d'utilisateurs personnalisé. Veuillez changer le nom du champ: %s';
+$lang['bitauth_enable_gmp']			= 'Activer php_gmp pour utiliser Bitauth.';
+$lang['bitauth_user_not_found']		= 'Utilisateur pas trouver: %d';
+$lang['bitauth_activate_failed']	= 'Impossible d'activer le compte du client avec ce code d'activation.';
+$lang['bitauth_expired_datatype']	= '$user doit être un array ou un objet dans Bitauth::password_is_expired()';
+$lang['bitauth_expiring_datatype']	= '$user doit être un array ou un objet dans Bitauth::password_almost_expired()';
+$lang['bitauth_add_user_datatype']	= '$data doit être un array ou un objet dans Bitauth::add_user()';
+$lang['bitauth_add_user_failed']	= 'L'ajout de nouveaux utilisateurs échoué, veuillez informer un administrateur.';
+$lang['bitauth_code_not_found']		= 'code d'activation pas trouver.';
+$lang['bitauth_edit_user_datatype']	= '$data doit être un array ou un objet dans Bitauth::update_user()';
+$lang['bitauth_edit_user_failed']	= 'Mise a jour d'utilisateur échouée, veuillez informer un administrateur.';
+$lang['bitauth_del_user_failed']	= 'La suppression d'utilisateur a echouée, veuillez informer un administrateur.';
+$lang['bitauth_set_pw_failed']		= 'Impossible de définir le mot de passe de l\'utilisateur, veuillez informer un administrateur.';
+$lang['bitauth_no_default_group']	= 'Groupe par défaut n'est pas specifié ou introuvable, Veuillez informer un administrateur.';
+$lang['bitauth_add_group_datatype']	= '$data doit être un array ou un objet dans Bitauth::add_group()';
+$lang['bitauth_add_group_failed']	= 'L'ajout de nouveau groupe échoué, veuillez informer un administrateur.';
+$lang['bitauth_edit_group_datatype']= '$data doit être un array ou un objet dans Bitauth::update_group()';
+$lang['bitauth_edit_group_failed']	= 'Mise a jour du groupe echoué, Veuillez informer un administrateur.';
+$lang['bitauth_del_group_failed']	= 'La suppression du groupe échouée, veuillez informer un administrateur.';
+$lang['bitauth_lang_not_found']		= '(Pas de langues trouver pour "%s"!)';

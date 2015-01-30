@@ -1,0 +1,1 @@
+vat index -> take NOT from orders and from customers BUT from adres

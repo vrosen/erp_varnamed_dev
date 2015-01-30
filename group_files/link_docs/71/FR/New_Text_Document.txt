@@ -1,0 +1,8 @@
+Host: sftp://217.145.86.38
+User: user1
+Password: 4Jn4zZBHtC
+Port: 1025
+www.varnamed.com - production
+www.dev.varnamed.com - development
+www.comforties.varnamed.com - comforties / dev
+pesho: www.dutchblue.varnamed.com - dutchblue / dev
